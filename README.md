@@ -1,2 +1,2 @@
-# Manuscript-2024-SBMF
-Manuscript submission to SBMF 2024 confrence
+# Manuscript-2024-CCS
+Manuscript submission to CCS 2024 confrence
